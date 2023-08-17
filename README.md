@@ -19,9 +19,11 @@ To play the Battleship Game, follow these steps:
 
 1. **Compile**: Make sure you have the Java Development Kit (JDK) installed on your computer. Compile the source code using a Java compiler, such as `javac`. Open your terminal or command prompt and navigate to the directory containing the source code files. Run the following command to compile the code:
 
+javac BattleshipGame.java
 
 2. **Run the Game**: After compiling, run the game by executing the compiled `.class` file. Use the following command:
 
+java BattleshipGame
 
 3. **Gameplay**: Follow the on-screen instructions to play the game. Input your guesses for grid positions when prompted. If you hit a battleship or sink it, you'll receive relevant messages. Continue playing until you defeat all the battleships.
 
