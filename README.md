@@ -32,7 +32,5 @@ To play the Battleship Game, follow these steps:
 - Battleships occupy three consecutive positions either horizontally or vertically on the grid.
 - You win the game by sinking all battleships before they unite.
 
-## Acknowledgments
-This Battleship Game project was developed by Julian Robinson as part of the coding apprenticeship through Road to Hire. Enjoy the game and have fun battling the supervillains!
 
 For any questions or feedback, please contact Julian Robinson at [ssjulianr@gmail.com](mailto:ssjulianr@gmail.com).
